@@ -10,7 +10,7 @@
 <div class="nav">
   
 <div>
-<img src="Без названия.jpg" /></a>
+<img src="Без названия.jpg">
 </div>
   
 <div>
