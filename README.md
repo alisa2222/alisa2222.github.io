@@ -10,7 +10,7 @@
 <div class="nav">
   
 <div>
-<img src="![image](https://user-images.githubusercontent.com/120451048/207265868-26483b05-06d7-4ca5-bf31-4db7df6e5992.png)" /></a>
+<img src="Без названия.jpg" /></a>
 </div>
   
 <div>
